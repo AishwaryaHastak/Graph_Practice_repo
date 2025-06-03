@@ -1,0 +1,7 @@
+ipykernel
+matplotlib
+networkx
+scipy
+scikit-learn
+torch
+torch-geometric
